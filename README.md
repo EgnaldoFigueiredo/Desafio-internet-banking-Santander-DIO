@@ -1,5 +1,3 @@
-## Desafio Banco digital Java
+Desafio internet banking Santander/DIO
 
-Desafio de projeto totalmente prático. 
-
-Para isso os pilares da orientação a objeto foram explorados no contexto bancário utilizando Heranca, Interfaces e abstração.
+Criando um Banco Digital com Java e Orientação a Objetos
